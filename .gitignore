@@ -1,0 +1,6 @@
+# Files and folders to ignore
+assets/files
+*.mp4
+*.zip
+*.rar
+*.7z
