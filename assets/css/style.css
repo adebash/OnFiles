@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Google Sans';
+    src: url('/assets/fonts/Google_Sans/GoogleSans-VariableFont_GRAD_opsz_wght.ttf');
+    font-style: normal;
+}
+
+* {
+    font-family: 'Google Sans';
+}
